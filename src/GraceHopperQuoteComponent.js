@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import CatComponent from './CatComponent';
+import GraceHopperQuoteComponent from './GraceHopperQuoteComponent';
+import MouseComponent from './MouseComponent';
 
 export defaualt class GraceHopperQuoteComponent extends Component {
 	render() {
